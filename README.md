@@ -1,5 +1,5 @@
 # rndwstSelection
-
+![](https://raw.githubusercontent.com/renodwi/rndwstSelection/main/Screenshot%202024-06-25%20031027.png)
 [![sampctl](https://img.shields.io/badge/sampctl-rndwstSelection-2f2f2f.svg?style=for-the-badge)](https://github.com/renodwi/rndwstSelection)
 
 <!--
