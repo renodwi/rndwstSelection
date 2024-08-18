@@ -1,7 +1,9 @@
 # rndwstSelection
-![](https://raw.githubusercontent.com/renodwi/rndwstSelection/main/Screenshot%202024-06-25%20031027.png)
 [![sampctl](https://img.shields.io/badge/sampctl-rndwstSelection-2f2f2f.svg?style=for-the-badge)](https://github.com/renodwi/rndwstSelection)
 
+![](https://raw.githubusercontent.com/renodwi/rndwstSelection/main/Screenshot%202024-06-25%20031027.png)
+
+Please read test.pwn to see how to use it.
 <!--
 Short description of your library, why it's useful, some examples, pictures or
 videos. Link to your forum release thread too.
